@@ -1,5 +1,6 @@
-<center>JCS - Jit Component System</center>
+JCS - Jit Component System
 ===
+
 *JCS is very early in its development and what information that is displayed is planned design and features.*
 
 
